@@ -12,7 +12,8 @@ st.markdown(
     """
     This app features charts of a symmetric random walk, a scaled
     symmetric random walk, and a Brownian motion, in order to illustrate
-    the progression from the first to the last.
+    the progression from the first to the last. We also provide a simulation
+    for a two-dimensional Brownian motion.
     
     ### Random walk
 
