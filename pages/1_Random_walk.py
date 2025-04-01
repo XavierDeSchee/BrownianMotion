@@ -36,5 +36,5 @@ with col1:
         st.rerun()
 
 with col2:
-    create_chart(t, int(N * t) + 1, W[:int(N * t) + 1])
+    create_chart(t, int(N * t) + 1, W[:int(N * t) + 1], 6)
 
